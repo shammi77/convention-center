@@ -5,7 +5,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-
+/* body style */
     .header-inside{
         padding-left: 135px;
     }
@@ -46,18 +46,17 @@ body{
     .half-width{
         width: 50%;
     }
-
+/* footer style */
     footer{
+        margin-top: 10px;
         background-color: black;
         color: blanchedalmond;
     }
-    #footer-style{
+    .app-store{
         display: flex;
-        
     }
-    #footer-align{
-        text-align: right;
-        border: whitesmoke;
-        border-radius: 2px;
+    .footer-style{
+        padding-left: 1080px;
     }
+    
     
