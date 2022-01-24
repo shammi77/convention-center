@@ -1,0 +1,63 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+/* common style/utilities */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+    .header-inside{
+        padding-left: 135px;
+    }
+    #package-size{
+        display: flex;
+        padding-top: 50px;
+    }
+    #package{
+        margin-top: 80px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    #package-one{
+        padding-left: 30px;
+    }
+    .packages-sign{
+        display: flex;
+    }
+    #right-place{
+           padding-left: 7px;
+    }
+    .button-size{
+        color: whitesmoke;
+        background-color: palevioletred;
+    }
+    #premium-size{
+        background-color: rgb(67, 138, 148);
+        color: whitesmoke;
+    }
+    #faq-size{
+        justify-content: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .container-three{
+        display: flex;
+    }
+    .half-width{
+        width: 50%;
+    }
+
+    footer{
+        background-color: black;
+        color: blanchedalmond;
+    }
+    #footer-style{
+        display: flex;
+        
+    }
+    #footer-align{
+        text-align: right;
+        border: whitesmoke;
+        border-radius: 2px;
+    }
+    
